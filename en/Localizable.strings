@@ -9,305 +9,305 @@
 
 /* COMMON */
 
-"DEFAULT"           = "Default";
-"EMPTY"             = "Empty";
-"NONE"              = "None";
-"UNKNOWN"           = "Unknown";
+"DEFAULT"           = "Alapértelmezett";
+"EMPTY"             = "Üres";
+"NONE"              = "Nincs";
+"UNKNOWN"           = "Ismeretlen";
 
 
 /* COMMON VERBS */
 
-"ADD"               = "Add";
-"EDIT"              = "Edit";
+"ADD"               = "Hozzáadás";
+"EDIT"              = "Szerkesztés";
 
-"CREATE"            = "Create";
-"COPY"              = "Copy";
-"MOVE"              = "Move";
-"REMOVE"            = "Remove";
-"RENAME"            = "Rename";
+"CREATE"            = "Készítés";
+"COPY"              = "Másolás";
+"MOVE"              = "Áthelyezés";
+"REMOVE"            = "Eltávolítás";
+"RENAME"            = "Átnevezés";
 
-"OPEN"              = "Open";
-"SAVE"              = "Save";
-"SHARE"             = "Share";
-"SEARCH"            = "Search";
+"OPEN"              = "Megnyitás";
+"SAVE"              = "Mentés";
+"SHARE"             = "Megosztás";
+"SEARCH"            = "Keresés";
 
-"SELECT"            = "Select";
-"SELECT_ALL"        = "Select All";
+"SELECT"            = "Kijelölés";
+"SELECT_ALL"        = "Összes kijelölése";
 
-"RELOAD"            = "Reload";
-"RESTART"           = "Restart";
-"START"             = "Start";
-"STOP"              = "Stop";
-"CANCEL"            = "Cancel";
-"CONTINUE"          = "Continue";
-"RESET"             = "Reset";
-"DONE"              = "Done";
-"AGREE"             = "I agree";
+"RELOAD"            = "Újratöltés";
+"RESTART"           = "Újraindítás";
+"START"             = "Indítás";
+"STOP"              = "Megállítás";
+"CANCEL"            = "Megszakítás";
+"CONTINUE"          = "Folytatás";
+"RESET"             = "Visszaállítás";
+"DONE"              = "Kész";
+"AGREE"             = "Egyetértek";
 
-"SEND"              = "Send";
-"SYNC"              = "Synchronize";
-"UPLOAD"            = "Upload";
+"SEND"              = "Küldés";
+"SYNC"              = "Szinkronizálás";
+"UPLOAD"            = "Feltöltés";
 
-"ENABLE"            = "Enable";
-"EXCLUDE"           = "Exclude";
-"RELINK"            = "Relink";
+"ENABLE"            = "Engedélyezés";
+"EXCLUDE"           = "Kihagyás";
+"RELINK"            = "Újracsatlakoztatás";
 
-"READ"              = "Read";
-"LISTEN"            = "Listen";
+"READ"              = "Olvasás";
+"LISTEN"            = "Meghallgatás";
 
-"SHOW"              = "Show";
-"HIDE"              = "Hide";
-"CLOSE"             = "Close";
+"SHOW"              = "Mutatás";
+"HIDE"              = "Elrejtés";
+"CLOSE"             = "Bezárás";
 
-"GO"                = "Go";
-"SPEAK"             = "Speak";
-"TRANSLATE"         = "Translate";
-"FETCH"             = "Fetch";
-"MARK"              = "Mark";
-"CUSTOMIZE"         = "Customize";
-"CHANGE"            = "Change";
+"GO"                = "Ugrás";
+"SPEAK"             = "Beszéd";
+"TRANSLATE"         = "Fordítás";
+"FETCH"             = "Beszerzés";
+"MARK"              = "Megjelölés";
+"CUSTOMIZE"         = "Testreszabás";
+"CHANGE"            = "Megváltoztatás";
 
 
 /* COMMON WORDS */
 
-"ACTION"            = "Action";
-"AUTO"              = "Auto";
-"NOTE"              = "Note";
-"USER"              = "User";
-"SAMPLE"            = "Sample";
-"DATABASE"          = "Database";
-"STORAGE"           = "Storage";
-"STORAGES"          = "Storages";
-"IMAGE"             = "Image";
-"IMAGES"            = "Images";
-"BOOK"              = "Book";
-"BOOKS"             = "Books";
-"AUDIOBOOK"         = "Audiobook";
-"TEXT"              = "Text";
-"COLOR"             = "Color";
-"AUDIO"             = "Audio";
-"GUIDE"             = "Guide";
-"MORE"              = "More";
-"BACKGROUND"        = "Background";
-"BLACK"             = "Black";
-"CHAPTER"           = "Chapter";
-"MODE"              = "Mode";
-"ALWAYS"            = "Always";
-"OFF"               = "Off";
-"LIST"              = "List";
-"CARDS"             = "Cards";
+"ACTION"            = "Tevékenység";
+"AUTO"              = "Automata";
+"NOTE"              = "Jegyzet";
+"USER"              = "Felhasználó";
+"SAMPLE"            = "Minta";
+"DATABASE"          = "Adatbázis";
+"STORAGE"           = "Tárhely";
+"STORAGES"          = "Tárhelyek";
+"IMAGE"             = "Kép";
+"IMAGES"            = "Képek";
+"BOOK"              = "Könyv";
+"BOOKS"             = "Könyvek";
+"AUDIOBOOK"         = "Hangoskönyv";
+"TEXT"              = "Szöveg";
+"COLOR"             = "Szín";
+"AUDIO"             = "Hang";
+"GUIDE"             = "Vezető";
+"MORE"              = "Több";
+"BACKGROUND"        = "Háttér";
+"BLACK"             = "Fekete";
+"CHAPTER"           = "Fejezet";
+"MODE"              = "Mód";
+"ALWAYS"            = "Mindig";
+"OFF"               = "Ki";
+"LIST"              = "Lista";
+"CARDS"             = "Kártyák";
 
 
 /* COMMON DATE TIME */
 
-"DATE"              = "Date";
-"TODAY"             = "Today";
-"YESTERDAY"         = "Yesterday";
-"WEAK_AGO"          = "Week Ago";
-"MONTH_AGO"         = "Month Ago";
-"YEAR_AGO"          = "Year Ago";
+"DATE"              = "Dátum";
+"TODAY"             = "Ma";
+"YESTERDAY"         = "Tegnap";
+"WEAK_AGO"          = "Hete";
+"MONTH_AGO"         = "Hónapja";
+"YEAR_AGO"          = "Éve";
 
 
 /* COMMON PHRASES */
 
-"BLANK_PAGE"        = "Blank Page";
-"WAIT_MESSAGE"      = "Please wait..";
-"WAITING"           = "Waiting..";
-"SEARCHING"         = "Searching..";
-"NO_SEARCH_RESULT"  = "Oops, we can't find what you are looking for";
-"OPEN_BOOK"         = "Open a book";
-"CLOSE_BOOK"        = "Close a book";
-"BOOK_COVERS"       = "Book Covers";
-"EMPTY_TEXT"        = "No text";
-"FILE_SIZE"         = "File size";
-"ABOUT_AUTHOR"      = "About the author";
-"FOUND_FMT"         = "Found: %zu";
+"BLANK_PAGE"        = "Üres oldal";
+"WAIT_MESSAGE"      = "Kérem, várjon...";
+"WAITING"           = "Várakozás...";
+"SEARCHING"         = "Keresés...";
+"NO_SEARCH_RESULT"  = "Hupsz, nem találjuk, amit keres...";
+"OPEN_BOOK"         = "Könyv megnyitása";
+"CLOSE_BOOK"        = "Könyv bezárása";
+"BOOK_COVERS"       = "Könyvborítók";
+"EMPTY_TEXT"        = "Nincs szöveg";
+"FILE_SIZE"         = "Fájlméret";
+"ABOUT_AUTHOR"      = "A szerzőről";
+"FOUND_FMT"         = "Találat: %zu";
 
 
 /* APP MAIN */
 
 "KYBOOK"            = "KyBook";
-"MYBOOKS_TITLE"     = "Books";
-"MYFILES_TITLE"     = "Files";
-"SEARCH_TITLE"      = "Search";
-"LIBRARIES_TITLE"   = "Libraries";
-"USERSPACE_TITLE"   = "Dashboard";
-"MAIN_SCREEN"       = "Main Screen";
-"APPLICATION"       = "Application";
-"PROFILE"           = "Profile";
-"FEEDBACK"          = "Feedback";
-"SUPPORT"           = "Support";
+"MYBOOKS_TITLE"     = "Könyvek";
+"MYFILES_TITLE"     = "Fájlok";
+"SEARCH_TITLE"      = "Keresés";
+"LIBRARIES_TITLE"   = "Könyvtárak";
+"USERSPACE_TITLE"   = "Kezelőpult";
+"MAIN_SCREEN"       = "Főképernyő";
+"APPLICATION"       = "Alkalmazás";
+"PROFILE"           = "Profil";
+"FEEDBACK"          = "Visszajelzés";
+"SUPPORT"           = "Támogatás";
 
 
 /* DIALOG */
 
-"USERNAME"              = "Username";
-"PASSWORD"              = "Password";
-"EMAIL"                 = "E-Mail";
-"ENTER_NAME"            = "Enter Name";
-"LOGIN"                 = "Login";
-"LOGOUT"                = "Logout";
-"SIGN_IN"               = "Sign In";
-"SING_UP"               = "Sign Up";
+"USERNAME"              = "Felhasználónév";
+"PASSWORD"              = "Jelszó";
+"EMAIL"                 = "E-mail";
+"ENTER_NAME"            = "Írja be a nevét";
+"LOGIN"                 = "Belépés";
+"LOGOUT"                = "Kilépés";
+"SIGN_IN"               = "Bejelentkezés";
+"SING_UP"               = "Regisztráció";
 
 
 /* DIALOG PLACEHOLDERS */
 
-"USERNAME_HINT"     = "user name";
-"PASSWORD_HINT"     = "password";
-"SEARCH_HINT"       = "search";
-"TITLE_HINT"        = "title";
-"NAME_HINT"         = "name";
+"USERNAME_HINT"     = "felhasználónév";
+"PASSWORD_HINT"     = "jelszó";
+"SEARCH_HINT"       = "keresés";
+"TITLE_HINT"        = "cím";
+"NAME_HINT"         = "név";
 
 
 /* DIALOG REMOVE FILE/BOOK */
 
-"DELETE"                = "Delete";
-"DELETE_BOOK"           = "Delete Book";
-"DELETE_FILE"           = "Delete File";
-"DELETE_RECORD"         = "Delete Record";
-"DELETE_ALL"            = "Delete All";
-"DELETE?"               = "Delete?";
-"DELETE_Q_FMT"          = "Delete '%@'?";       // Delete 'something'?
-"DELETE_ITEMS?"         = "Delete %@ '%@'?";    // Delete file 'name.ext'?
-"DELETE_FILES?"         = "Delete %lu files?";  // Delete 2 files?
-"DELETE_RECORD_DEVICE"  = "Files on this device";
-"DELETE_RECORD_MSG"     = "Delete all files with this book, delete the record from Database and Cloud Storage";
-"WARNING_DELETE_FOLDER" = "Are you sure?\nAll content in the folder '%@' will be deleted!\nEnter '%@' to confirm.";
-"WARNING_DELETE_DB_ITEM" = "Are you sure?\nDatabase record will be deleted permanently!";
+"DELETE"                = "Törlés";
+"DELETE_BOOK"           = "Könyv törlése";
+"DELETE_FILE"           = "Fájl törlése";
+"DELETE_RECORD"         = "Bejegyzés törlése";
+"DELETE_ALL"            = "Minden törlése";
+"DELETE?"               = "Törli?";
+"DELETE_Q_FMT"          = "Törli ezt: '%@'?";       // Delete 'something'?
+"DELETE_ITEMS?"         = "Törli a %@ '%@' fájlt?";    // Delete file 'name.ext'?
+"DELETE_FILES?"         = "Töröl %lu fájlt?";  // Delete 2 files?
+"DELETE_RECORD_DEVICE"  = "Eszközön lévő fájlok";
+"DELETE_RECORD_MSG"     = "A könyvhöz tartozó összes fájl, illetve az adatbázis- és felhőtárhely-bejegyzések törlése";
+"WARNING_DELETE_FOLDER" = "Biztos?\nA '%@' mappából minden tartalom törlésre kerül!\nNyomja le ezt: '%@' a megerősítéshez";
+"WARNING_DELETE_DB_ITEM" = "Biztos?\nAz adatbázis-bejegyzés véglegesen törlésre kerül!";
 
 
 /* DOWNLOAD */
 
-"DOWNLOAD"              = "Download";
-"ASK_DOWNLOAD_FMT"      = "Download '%@'?";     // Download 'something'?
-"DOWNLOADING"           = "Downloading";
-"DOWNLOAD_COMPLETE"     = "Download Complete";
-"DOWNLOADS"             = "Downloads";
-"DOWNLOADED"            = "Downloaded";
-"DOWNLOAD_FILE"         = "Download file";
-"DOWNLOAD_FILE_MESSAGE" = "Enter URL to download a file";
+"DOWNLOAD"              = "Letöltés";
+"ASK_DOWNLOAD_FMT"      = "Letölti: '%@'?";     // Download 'something'?
+"DOWNLOADING"           = "Letöltés folyamatban";
+"DOWNLOAD_COMPLETE"     = "A letöltés befejeződött";
+"DOWNLOADS"             = "Letöltések";
+"DOWNLOADED"            = "Letöltve";
+"DOWNLOAD_FILE"         = "Fájl letöltése";
+"DOWNLOAD_FILE_MESSAGE" = "A fájl letöltéséhez írja be az URL-t";
 
 
 /* STATE */
 
-"STATE"                 = "State";
-"STATUS"                = "Status";
+"STATE"                 = "Állapot";
+"STATUS"                = "Státusz";
 
-"RUNNING"               = "Running..";
-"LOADING"               = "Loading, please wait..";
-"LOADING_SHORT"         = "Loading..";
-"LOADING_FMT"           = "Loading %u%%";
-"PREPARING"             = "Preparing..";
-"INSTALLATION"          = "Installation..";
+"RUNNING"               = "Fut...";
+"LOADING"               = "Betöltés, kérem várjon...";
+"LOADING_SHORT"         = "Betöltés...";
+"LOADING_FMT"           = "Betöltés: %u%%";
+"PREPARING"             = "Előkészítés...";
+"INSTALLATION"          = "Telepítés...";
 
-"CANCELLED"             = "Cancelled";
-"FAILURE"               = "Failure";
-"COMPLETED"             = "Completed";
-"FINISHED"              = "Finished";
-"READY"                 = "Ready";
+"CANCELLED"             = "Megszakítva";
+"FAILURE"               = "Sikertelen";
+"COMPLETED"             = "Befejezve";
+"FINISHED"              = "Vége";
+"READY"                 = "Kész";
 
-"DISCONNECTED"          = "Disconnected";
-"CONNECTING"            = "Connecting..";
-"CONNECTED"             = "Connected";
-"BOOTSTRAP"             = "Bootstrap";
+"DISCONNECTED"          = "Szétkapcsolva";
+"CONNECTING"            = "Kapcsolódás...";
+"CONNECTED"             = "Kapcsolódva";
+"BOOTSTRAP"             = "Rendszerindítás";
 
 
 /* FILES */
 
-"DEVICE"            = "Device";
-"LOCALNET"          = "Localnet";
+"DEVICE"            = "Eszköz";
+"LOCALNET"          = "Helyi hálózat";
 "INTERNET"          = "Internet";
-"FILE"              = "File";
-"FILES"             = "Files";
-"FOLDER"            = "Folder";
-"FOLDER_CONFIG"     = "Folder settings";
-"ACTIONS"           = "Actions";
-"SORTING"           = "Sorting";
-"GROUPING"          = "Grouping";
-"SHOWING"           = "Showing";
-"CREATE_FOLDER"     = "Create folder";
-"SELECT_FOLDER"     = "Select a folder";
-"SELECT_FILE"       = "Select a file";
-"FILES_EXT_FMT"     = "Files %@";       // Files epub,pdf,djvu
-"NO_FILES_EXT_FMT"  = "No files %@";    // No files epub,pdf,djvu
-"NO_FILES"          = "No files";
-"EMPTY_FOLDER"      = "This folder is empty";
-"FOLDER_FOOTER"     = "%@ in %d files"; // 12KB in 3 files
-"DEVICE_FOLDERS"    = "Folders";
-"ALL_DEVICE_FOLDERS"= "Folders on the device";
-"EMPTY_STORAGES"    = "You have not added any storage";
-"SUBFOLDERS_TITLE"  = "Subfolders in '%@'";         // Subfolders in 'Books/1'
-"NOSUBFOLDERS_FMT"  = "No subfolders in '%@'";      // No subfolders in 'Books/1'
-"COPY_FILES_FMT"    = "%@ files from '%@' to '%@'"; // Move files from 'Downloads' to 'Books/1'
-"TRANSFERRING"      = "File Transfer";
-"IMPORT_FILE"       = "Import file";
-"EXPORT_FILE"       = "Export file";
-"PROTECTED_FILE_TITLE" = "The file is protected";
-"PLEASE_ENTER_PASSWORD" = "Please enter a password";
-"SIBLING_FOLDERS"   = "Sibling folders";
-"READONLY_STORAGE_TITLE" = "Readonly Storage";
-"READONLY_STORAGE_MSG_FMT" = "Could not perform this operation. No write permissions to '%@'.";
-"UNABLE_UNARCHIVE_STORAGE_MESSAGE" = "The file is an archive. The application does not know the content of this archive. Obtaining contents of the archive in the cloud requires unzipping. To unzip the file, you must copy it to your device.";
-"UNABLE_OPEN_STORAGE_MESSAGE" = "Unable to open the file '%@' from the cloud storage. Must first copy the file to the device.";
+"FILE"              = "Fájl";
+"FILES"             = "Fájlok";
+"FOLDER"            = "Mappa";
+"FOLDER_CONFIG"     = "Mappabeállítások";
+"ACTIONS"           = "Parancsok";
+"SORTING"           = "Rendezés";
+"GROUPING"          = "Csoportosítás";
+"SHOWING"           = "Mutatás";
+"CREATE_FOLDER"     = "Mappakészítés";
+"SELECT_FOLDER"     = "Mappa kiválasztása";
+"SELECT_FILE"       = "Fájl kiválasztása";
+"FILES_EXT_FMT"     = "%@ fájlok";       // Files epub,pdf,djvu
+"NO_FILES_EXT_FMT"  = "Nincsenek %@ fájlok";    // No files epub,pdf,djvu
+"NO_FILES"          = "Nincsenek fájlok";
+"EMPTY_FOLDER"      = "Ez a mappa üres";
+"FOLDER_FOOTER"     = "%@ %d fájlban"; // 12KB in 3 files
+"DEVICE_FOLDERS"    = "Mappák";
+"ALL_DEVICE_FOLDERS"= "Eszközön lévő mappák";
+"EMPTY_STORAGES"    = "Nem állított be tárhelyet";
+"SUBFOLDERS_TITLE"  = "Almappák itt: '%@'";         // Subfolders in 'Books/1'
+"NOSUBFOLDERS_FMT"  = "Nincsenek almappák itt: '%@'";      // No subfolders in 'Books/1'
+"COPY_FILES_FMT"    = "Fájlok %@ innen: '%@' ide: '%@'"; // Move files from 'Downloads' to 'Books/1'
+"TRANSFERRING"      = "Fájláthelyezés";
+"IMPORT_FILE"       = "Fájl importálása";
+"EXPORT_FILE"       = "Fájl exportálása";
+"PROTECTED_FILE_TITLE" = "A fájl védett";
+"PLEASE_ENTER_PASSWORD" = "Kérem, írja be a jelszót";
+"SIBLING_FOLDERS"   = "Testvérmappák";
+"READONLY_STORAGE_TITLE" = "Csak olvasható mappák";
+"READONLY_STORAGE_MSG_FMT" = "A műveletet nem sikerült elvégezni. Nincs írási jogosultság ide: '%@'.";
+"UNABLE_UNARCHIVE_STORAGE_MESSAGE" = "A fájl archívum. Az alkalmazás nem ismeri az archívum tartalmát. Az archívum tartalmának megszerzéséhez a felhőben kitömörítésre van szükség. Kitömörítéshez a fájlt az eszközére kell másolnia.";
+"UNABLE_OPEN_STORAGE_MESSAGE" = "A '%@' fájlt a felhőtárhelyről nem sikerült megnyitni. Először az eszközre kell másolnia a fájlt.";
 
 /* FILES MAIN SETTINS  */
 
-"FILES_DOWNLOADS_DEST"              = "Downloads Storage";
-"FILES_DOWNLOADS_DEST_HINT"         = "Location of the 'Downloads' folder. In this folder will be loaded files from OPDS catalogs and libraries";
-"FILES_INBOX_DEST"                  = "Inbox Storage";
-"FILES_INBOX_DEST_HINT"             = "Location of the 'Inbox' folder. In this folder will be placed files transferred from an another application";
-"FILES_APP_FOLDER"                  = "Files/App Folder";
-"FILES_APP_FOLDER_HINT"             = "Show 'App' folder in the Files section. Files/App Folder contains such files as fonts, covers, summaries, backups, etc.";
-"FILES_ITUNES_FOLDERS_MODE"         = "iTunes File Sharing - new folders";
-"FILES_ITUNES_FOLDERS_MODE_AUTO"    = "Add to the Files";
-"FILES_ITUNES_FOLDERS_MODE_MOVE"    = "Move into Files/Books";
-"FILES_ITUNES_FOLDERS_MODE_MANUAL"  = "Skip. Allow add manually later";
-"FILES_ITUNES_FOLDERS_MODE_HINT"    = "The action upon detection of new folder added by the user via iTunes File Sharing.\n\n - automatically create a root folder in the Files.\n - move folders into Files/Books\n - Allow the user to create a root folder in the Files.";
+"FILES_DOWNLOADS_DEST"              = "Letöltések tárhelye";
+"FILES_DOWNLOADS_DEST_HINT"         = "A 'Letöltések' mappa helye. Ebbe a mappába töltődnek be a fájlok az OPDS katalógusokból és könyvtárakból.";
+"FILES_INBOX_DEST"                  = "Bejövő tárhely";
+"FILES_INBOX_DEST_HINT"             = "A 'Bejövő' mappa helye. Ebbe a mappába töltődnek be a más alkalmazásokból áthelyezett fájlok.";
+"FILES_APP_FOLDER"                  = "Fájlok/Alkalmazás mappa";
+"FILES_APP_FOLDER_HINT"             = "Az 'Alkalmazás' mappa mutatása a Fájlok alatt. A Fájlok/Alkalmazás mappa olyan fájlokat tartalmaz, mint betűtípusok, borítók, összefoglalók, biztonsági mentések, stb.";
+"FILES_ITUNES_FOLDERS_MODE"         = "iTunes-fájlmegosztás - új mappák";
+"FILES_ITUNES_FOLDERS_MODE_AUTO"    = "Hozzáadás a Fájlokhoz";
+"FILES_ITUNES_FOLDERS_MODE_MOVE"    = "Áthelyezés ide: Fájlok/Könyvek";
+"FILES_ITUNES_FOLDERS_MODE_MANUAL"  = "Átugrás. Kézi hozzáadás engedélyezése később";
+"FILES_ITUNES_FOLDERS_MODE_HINT"    = "A felhasználó által iTunes-fájlmegosztással hozzáadott mappa felfedezésekor végrehajtandó parancs.\n\n - automatikus gyökérmappakészítés a Fájlokban.\n - mappák áthelyezése ide: Fájlok/Könyvek\n - készítsen a felhasználó gyökérmappát a Fájlokban.";
 
 /* SORTING GROUPING */
 
-"BY_NAME"           = "By Name";
-"BY_DATE"           = "By Date";
-"BY_SIZE"           = "By Size";
-"BY_FORMAT"         = "By Format";
-"BY_AUTHOR"         = "By Author";
-"BY_SEQUENCE"       = "By Sequence";
-"BY_SUBJECT"        = "By Subject";
-"BY_TAG"            = "By Tag";
-"BY_TITLE"          = "By Title";
-"BY_BOOK"           = "By Book";
-"BY_POSITION"       = "By Position";
-"BY_PROGRESS"       = "By Progress";
+"BY_NAME"           = "Név szerint";
+"BY_DATE"           = "Dátum szerint";
+"BY_SIZE"           = "Méret szerint";
+"BY_FORMAT"         = "Formátum szerint";
+"BY_AUTHOR"         = "Szerző szerint;
+"BY_SEQUENCE"       = "Sorozat szerint";
+"BY_SUBJECT"        = "Téma szerint";
+"BY_TAG"            = "Címke szerint";
+"BY_TITLE"          = "Cím szerint";
+"BY_BOOK"           = "Könyv szerint";
+"BY_POSITION"       = "Pozíció szerint";
+"BY_PROGRESS"       = "Haladás szerint";
 
 
 /* CELLS PRESENTATION */
 
-"SMALL_CARDS"       = "Small Cards";
-"BOOK_COVERS_SMALL" = "Small Covers";
-"BOOK_PILES"        = "Piles";
-"BOOK_BACKS"        = "Backs";
-"FLAT_PRESENTATION" = "Flat";
-"MASONRY_LAYOUT"    = "Mosaic";
+"SMALL_CARDS"       = "Kis kártyák";
+"BOOK_COVERS_SMALL" = "Kis borítók";
+"BOOK_PILES"        = "Kupacok";
+"BOOK_BACKS"        = "Hátoldalak";
+"FLAT_PRESENTATION" = "Lapos";
+"MASONRY_LAYOUT"    = "Mozaik";
 
 
 /* DROPBOX */
 
-"DROPBOX_LINK_TITLE"        = "Dropbox is not linked";
-"DROPBOX_LINK_MESSAGE"      = "Select your preferred authentication method";
-"DROPBOX_LINK_RUN_APP"      = "Run Dropbox App";
-"DROPBOX_LINK_OPEN_SITE"    = "Open www.dropbox.com";
-"DROPBOX_ADD_TITLE"         = "Add Dropbox";
-"DROPBOX_ADD_MESSAGE"       = "Grant permission to access your files inside Dropbox";
-"DROPBOX_MIGRATE_MESSAGE"   = "Sorry, this update requires relink your Dropbox";
+"DROPBOX_LINK_TITLE"        = "A Dropbox nincs csatlakoztatva";
+"DROPBOX_LINK_MESSAGE"      = "Válassza ki kedvenc bejelentkezési módját";
+"DROPBOX_LINK_RUN_APP"      = "Dropbox alkalmazás futtatása";
+"DROPBOX_LINK_OPEN_SITE"    = "www.dropbox.com megnyitása";
+"DROPBOX_ADD_TITLE"         = "Dropbox hozzáadása";
+"DROPBOX_ADD_MESSAGE"       = "Fájlhozzáférés engedélyezése a Dropboxban";
+"DROPBOX_MIGRATE_MESSAGE"   = "Elnézést, de ez a frissítés megköveteli, hogy újracsatlakoztassa Dropbox-át";
 
 
 /* YANDEX DISK */
 
 "YANDEX_DISK"               = "Yandex Disk";
-"YANDEX_DISK_APP"           = "Yandex Disk App";
-"YANDEX_ADD_TITLE"          = "Add Yandex Disk";
-"YANDEX_ADD_MESSAGE"        = "Grant permission to access your files inside Yandex Disk";
+"YANDEX_DISK_APP"           = "Yandex Disk alkalmazás";
+"YANDEX_ADD_TITLE"          = "Yandex Disk hozzáadása";
+"YANDEX_ADD_MESSAGE"        = Fájlhozzáférés engedélyezése a Yandex Disken";
 
 
 /* GOOGLE DRIVE */
@@ -317,210 +317,210 @@
 /* cloud.mai.ru */
 
 "CLOUD_MAIL_RU"             = "Cloud Mail.ru";
-"CLOUD_MAIL_RU_CAUTION"     = "Warning, this is an unofficial implementation of a protocol for working with Cloud Mail.ru.\nYou connect the cloud at your own risk and without any warranty of quality, availability, data integrity, security, or about anything else.\nBefore use read the license agreement of the Service cloud@mail.ru https://cloud.mail.ru/LA/";
+"CLOUD_MAIL_RU_CAUTION"     = "Vigyázat, ez a Cloud Mail.ru hozzáférési protokolljának egy nemhivatalos implementációja.\nA felhőhöz saját felelősségére csatlakozik, a minőségre, elérhetőségre, adatintegritásra, biztonságra vagy bármi másra vonatkozó bármiféle szavatosság nélkül.\nHasználat előtt olvassa el a cloud@mail.ru szolgáltatás licenszmegállapodását: https://cloud.mail.ru/LA/";
 
 /* CLOUDS PERM */
 
-"STORAGE_PERM_FULL"         = "Full access";
-"STORAGE_PERM_APP"          = "Only to the App Folder";
+"STORAGE_PERM_FULL"         = "Teljes hozzáférés";
+"STORAGE_PERM_APP"          = "Csak az Alkalmazás mappához";
 
 
 /* SMB/CIFS */
 
-"SMB_SHARES"            = "Shared";
-"LOCAL_NETWORK"         = "Local Network";
-"NETWORK_NEIGHBORHOOD"  = "Network Neighborhood";
-"SMB_WORKGROUP"         = "Workgroup (optional)";
-"SMB_SERVER"            = "Server";
-"SMB_SHARE"             = "Sharepoint";
-"SMB_USERNAME"          = "User (optional)";
-"SMB_PASSWORD"          = "Password (optional)";
-"NETBIOS_DISCOVERY"     = "Local Network Discovery";
+"SMB_SHARES"            = "Megosztott";
+"LOCAL_NETWORK"         = "Helyi hálózat";
+"NETWORK_NEIGHBORHOOD"  = "Hálózati csoport";
+"SMB_WORKGROUP"         = "Munkacsoport (nem kötelező)";
+"SMB_SERVER"            = "Szerver";
+"SMB_SHARE"             = "SharePoint";
+"SMB_USERNAME"          = "Felhasználó (nem kötelező)";
+"SMB_PASSWORD"          = "Jelszó (nem kötelező)";
+"NETBIOS_DISCOVERY"     = "Helyi hálózati felderítés";
 
 
 /* WEBDAV */
 
-"ADD_WEBDAV"            = "Add WebDAV Server";
-"KNOWN_WEBDAVS"         = "Known WebDAV Cloud Storage";
+"ADD_WEBDAV"            = "WebDAV-szerver hozzáadása";
+"KNOWN_WEBDAVS"         = "Ismert WebDAV felhőtárhely";
 
 
 /* LIBRARIES */
 
-"EMPTY_LIBRARIES"       = "You have not added any libraries";
+"EMPTY_LIBRARIES"       = "Nem adott hozzá könyvtárakat";
 
 
 /* LITRES */
 
 "LITRES"                    = "LitRes";
-"LITRES_SITE"               = "LitRes Site";
-"LITRES_CONNECT_MESSAGE"    = "KyBook would like to connect with your LitRes";
-"BASKET"                    = "Basket";
-"TO_BASKET"                 = "Add to Cart";
-"FROM_BASKET"               = "Remove from Cart";
-"BUYBOOK_FMT"               = "Buy for %@";  // Buy for $5
+"LITRES_SITE"               = "LitRes oldal";
+"LITRES_CONNECT_MESSAGE"    = "A KyBook csatlakozni szeretne az Ön LitRes-éhez";
+"BASKET"                    = "Kosár";
+"TO_BASKET"                 = "Kosárba";
+"FROM_BASKET"               = "Eltávolítás a Kosárból";
+"BUYBOOK_FMT"               = "Megvásárlás ennyiért: %@";  // Buy for $5
 
 
 /* OPDS CATALOG */
 
-"OPDS_CATALOG"              = "OPDS Catalog";
-"LOCAL_OPDS"                = "Find in Localnet";
-"ADD_OPDS_CATALOG_FOOTER"   = "Enter an address into the search field for adding a custom OPDS Сatalog.";
-"BAD_OPDS_SEARCH"           = "OPDS Catalog does not support searching";
-"OPDS_CATALOG_PROBING"      = "Probing..";
-"OPDS_CATALOG_FIX_MESSAGE"  = "It seems what the OPDS catalog address was not fully specified. The address was corrected to proper one. Please check carefully.";
-"OPDS_CATALOG_BAD_CONTENT_FMT" = "OPDS Catalog returned the wrong content type '%@' from %@";
+"OPDS_CATALOG"              = "OPDS-katalógus";
+"LOCAL_OPDS"                = "Keresés helyi hálózaton";
+"ADD_OPDS_CATALOG_FOOTER"   = "Saját OPDS-katalógus hozzáadásához írja be a címet a keresőmezőbe.";
+"BAD_OPDS_SEARCH"           = "Az OPDS-katalógus nem támogatja a keresést";
+"OPDS_CATALOG_PROBING"      = "Próbálkozás...";
+"OPDS_CATALOG_FIX_MESSAGE"  = "Úgy tűnik, mintha nem lett volna teljesen konkrét az ODPS-katalógus címe. A cím a megfelelő formátumra javításra került. Kérem, alaposan ellenőrizze le.";
+"OPDS_CATALOG_BAD_CONTENT_FMT" = "Az OPDS-katalógus ezt a rossz tartalomtípust találta: '%@' ebben: %@";
 
 
 /* SAMIZDAT */
 
 "SAMIZDAT"          = "Samizdat";
-"SAMIZDAT_SITE"     = "Samizdat website";
-"RESET_UPDATE"      = "Reset update";
-"SAMIZDAT_UPDATED"  = "Updated";
-"SAMIZDAT_SIZE"     = "Volume";
-"SAMIZDAT_VISITORS" = "Visitors per year";
-"SAMIZDAT_IMPORT"   = "Import authors";
+"SAMIZDAT_SITE"     = "Samizdat honlap";
+"RESET_UPDATE"      = "Frissítés visszaállítása";
+"SAMIZDAT_UPDATED"  = "Frissítve";
+"SAMIZDAT_SIZE"     = "Méret";
+"SAMIZDAT_VISITORS" = "Évi látogatószám";
+"SAMIZDAT_IMPORT"   = "Szerzők importálása";
 "SAMIZDAT_IMPORT_HINT" = "";
-"SAMIZDAT_EXPORT"   = "Export authors";
+"SAMIZDAT_EXPORT"   = "Szerzők exportálása";
 "SAMIZDAT_EXPORT_HINT" = "";
-"SAMIZDAT_AUTHORS"  = "All authors alphabetically";
-"SAMIZDAT_SERVER"   = "Samizdat server (hostname)";
-"ADD_TO_BOOKS"      = "Add to Books";
-"SAMIZDAT_UPDATES_HINT" = "Pull to refresh and obtain the latest update";
-"SAMIZDAT_ADD_AUTHOR_HINT" = "Use a long-press gesture to add an author";
-"SAMIZDAT_ADD_AUTHOR_HELP"  = "Enter a name or a page address of the Samizdat's author in the search field and tap Search.";
-"SAMIZDAT_ADDDED_AUTHOR_OK" = "Samizdat: added the author";
+"SAMIZDAT_AUTHORS"  = "Minden szerző ABC-sorrendben";
+"SAMIZDAT_SERVER"   = "Samizdat szerver (host neve)";
+"ADD_TO_BOOKS"      = "Hozzáadás a Könyvekhez";
+"SAMIZDAT_UPDATES_HINT" = "Az újratöltéshez és a legújabb frissítés beszerzéséhez húzza el";
+"SAMIZDAT_ADD_AUTHOR_HINT" = "Nyomja hosszan új szerző hozzáadásához";
+"SAMIZDAT_ADD_AUTHOR_HELP"  = "Írja be a Samizdat-szerző nevét vagy honlapcímét a keresőmezőbe, majd érintse meg a keresést.";
+"SAMIZDAT_ADDDED_AUTHOR_OK" = "Samizdat: szerző hozzáadva";
 
 
 /* BOOKCARD */
 
-"BOOK_CARD"     = "Book Card";
-"TITLE"         = "Title";
-"AUTHOR"        = "Author";
-"AUTHORS"       = "Authors";
-"SUBJECT"       = "Subject";
-"SUBJECTS"      = "Subjects";
-"SEQUENCE"      = "Sequence";
-"SEQUENCES"     = "Sequences";
-"ANNOTATION"    = "Annotation";
-"LANGUAGE"      = "Language";
+"BOOK_CARD"     = "Olvasójegy";
+"TITLE"         = "Cím";
+"AUTHOR"        = "Szerző";
+"AUTHORS"       = "Szerzők";
+"SUBJECT"       = "Téma";
+"SUBJECTS"      = "Témák";
+"SEQUENCE"      = "Sorozat";
+"SEQUENCES"     = "Sorozatok";
+"ANNOTATION"    = "Szövegmagyarázat";
+"LANGUAGE"      = "Nyelv";
 "ISBN"          = "ISBN";
-"IDENTIFIER"    = "Identifier";
-"IDENTIFIERS"   = "Identifiers";
+"IDENTIFIER"    = "Azonosító";
+"IDENTIFIERS"   = "Azonosítók";
 "LINK"          = "Link";
-"LINKS"         = "Links";
-"LOCATIONS"     = "Locations";
-"PUBLISHER"     = "Publisher";
-"KEYWORDS"      = "Keywords";
-"NOTES"         = "Notes";
-"REVIEWS"       = "Reviews";
-"RELATED_BOOKS" = "Related books";
-"TAGS"          = "Tags";
-"GENRES"        = "Genres";
-"COLLECTIONS"   = "Collections";
-"RATING"        = "Rating";
-"MY_RATING"     = "My rating";
-"SOURCE"        = "Source";
-"READ_STAT"     = "Stats of reading";
-"READ_STAT_FMT" = "At %@, Read %d%% for %@"; // At 15:30, Read 12% for 5min
-"TEXT_ENCODING" = "Text Encoding";
-"MOBI_PID"      = "MobiPocket PID (Kindle Serial Number)";
+"LINKS"         = "Linkek";
+"LOCATIONS"     = "Helyek";
+"PUBLISHER"     = "Kiadó";
+"KEYWORDS"      = "Kulcsszavak";
+"NOTES"         = "Jegyzetek";
+"REVIEWS"       = "Recenziók";
+"RELATED_BOOKS" = "Hasonló könyvek";
+"TAGS"          = "Címkék";
+"GENRES"        = "Műfajok";
+"COLLECTIONS"   = "Gyűjtemények";
+"RATING"        = "Értékelés";
+"MY_RATING"     = "Saját értékelésem";
+"SOURCE"        = "Forrás";
+"READ_STAT"     = "Olvasási statisztikák";
+"READ_STAT_FMT" = "Ekkor: %@, olvastam %d%%-ot %@ alatt"; // At 15:30, Read 12% for 5min
+"TEXT_ENCODING" = "Szöveg kódolása";
+"MOBI_PID"      = "MobiPocket PID (Kindle-sorozatszám)";
 
-"METADATA"      = "Metadata";
-"SAVE_CHANGES_TITLE" = "The data has been edited. Save changes?";
+"METADATA"      = "Metaadatok";
+"SAVE_CHANGES_TITLE" = "Az adatok szerkesztésre kerültek. Változtatások mentése?";
 
-"BOOK_READ_STATE_TITLE" = "Feedback";
-"BOOK_READ_STATE_HINT" = "Impression about the book";
-"BOOK_READ_STATE_DONE" = "Have read";
-"BOOK_READ_STATE_NONE" = "Mark as read";
+"BOOK_READ_STATE_TITLE" = "Visszajelzés";
+"BOOK_READ_STATE_HINT" = "Benyomások";
+"BOOK_READ_STATE_DONE" = "Elolvasva";
+"BOOK_READ_STATE_NONE" = "Megjelölés elolvasottként";
 
 
 /* BOOKCARD ACTIONS */
 
-"ADD_AUTHOR"            = "Add Author";
-"ADD_SUBJECT"           = "Add Subject";
-"ADD_ID"                = "Add ID";
-"ADD_TAG"               = "Add Tag";
-"ADD_TITLE"             = "Add Title";
-"ADD_SUBTITLE"          = "Add Subtitle";
-"ADD_SEQUENCE"          = "Add Sequence";
-"ADD_SEQUENCE_NUMBER"   = "Add Sequence number";
-"ADD_ANNOTATION"        = "Add Annotation";
-"ADD_LANG"              = "Add Language";
-"ADD_PUBLISHER"         = "Add Publisher";
-"ADD_DATE"              = "Add Date";
-"ADD_ISBN"              = "Add ISBN";
-"ADD_KEYWORDS"          = "Add Keywords";
-"ADD_LIBID"             = "Add LIBID";
-"ADD_LINK"              = "Add Link";
-"ADD_TEXT_ENCODING"     = "Add Encoding";
-"ADD_MOBI_PID"          = "Add PID";
-"ADD_PASSWORD"          = "Add Password";
-"ENTER_TITLE"           = "Enter Title";
-"ENTER_COLOR"           = "Enter Color";
-"ENTER_ENCODING"        = "Enter Encoding";
-"ACQUIRE_BOOK"          = "Acquire";
-"READ_ONLINE"           = "Read online";
-"SHARE_INFO"            = "Share info";
-"SHARE_FILE"            = "Share file";
+"ADD_AUTHOR"            = "Szerző hozzáadása";
+"ADD_SUBJECT"           = "Téma hozzáadása";
+"ADD_ID"                = "Azonosító hozzáadása";
+"ADD_TAG"               = "Címke hozzáadása";
+"ADD_TITLE"             = "Cím hozzádaása";
+"ADD_SUBTITLE"          = "Alcím hozzáadása";
+"ADD_SEQUENCE"          = "Sorozat hozzáadása";
+"ADD_SEQUENCE_NUMBER"   = "Sorozatszám hozzáadása";
+"ADD_ANNOTATION"        = "Szövegmagyarázat hozzáadása";
+"ADD_LANG"              = "Nyelv hozzáadása";
+"ADD_PUBLISHER"         = "Kiadó hozzáadása";
+"ADD_DATE"              = "Dátum hozzáadása";
+"ADD_ISBN"              = "ISBN hozzáadása";
+"ADD_KEYWORDS"          = "Kulcsszavak hozzáadása";
+"ADD_LIBID"             = "LIBID hozzáadása";
+"ADD_LINK"              = "Link hozzáadása";
+"ADD_TEXT_ENCODING"     = "Kódolás hozzáadása";
+"ADD_MOBI_PID"          = "PID hozzáadása";
+"ADD_PASSWORD"          = "Jelszó hozzáadása";
+"ENTER_TITLE"           = "Cím beírása";
+"ENTER_COLOR"           = "Szín beírása";
+"ENTER_ENCODING"        = "Kódolás beírása";
+"ACQUIRE_BOOK"          = "Beszerzés";
+"READ_ONLINE"           = "Online olvasás";
+"SHARE_INFO"            = "Információ megosztása";
+"SHARE_FILE"            = "Fájl megosztása";
 
 
 /* BOOKCARD COVER */
 
-"BOOK_COVER"            = "Book Cover";
-"SELECT_COVER_IMAGE"    = "Change Cover";
-"COVER_FROM_BOOK"       = "Restore from the book";
-"PHOTOS"                = "Photos";
-"PHOTO"                 = "Photo";
+"BOOK_COVER"            = "Könyvborító";
+"SELECT_COVER_IMAGE"    = "Borító megváltoztatása";
+"COVER_FROM_BOOK"       = "Visszaállítás a könyvből";
+"PHOTOS"                = "Fotók";
+"PHOTO"                 = "Fotó";
 "WEB"                   = "Web";
-"WEB_SEARCH"            = "Web Search";
+"WEB_SEARCH"            = "Internetes keresés";
 
 
 /* BOOKCARD RATING */
 
-"RATING_0"              = "Not rated";
-"RATING_1"              = "Do not read";
-"RATING_2"              = "Very bad";
-"RATING_3"              = "Bad";
-"RATING_4"              = "Mediocre";
-"RATING_5"              = "So so";
-"RATING_6"              = "Fine";
-"RATING_7"              = "Good";
-"RATING_8"              = "Very good";
-"RATING_9"              = "Great";
-"RATING_10"             = "Masterwork";
+"RATING_0"              = "Nincs értékelve";
+"RATING_1"              = "Olvasásra méltatlan";
+"RATING_2"              = "Nagyon rossz";
+"RATING_3"              = "Rossz";
+"RATING_4"              = "Közepes";
+"RATING_5"              = "Úgy-ahogy";
+"RATING_6"              = "Elmegy";
+"RATING_7"              = "Jó";
+"RATING_8"              = "Nagyon jó";
+"RATING_9"              = "Kiváló";
+"RATING_10"             = "Mestermű";
 
 
 /* BOOKREADER */
 
-"PAGE_FMT"              = "Page %u";
-"PAGE_FMT_SHORT"        = "p. %u";
-"BACK_TO_PAGE_FMT"      = "Back to page %u";
+"PAGE_FMT"              = "%u. oldal";
+"PAGE_FMT_SHORT"        = "%u. o.";
+"BACK_TO_PAGE_FMT"      = "Vissza a %u. oldalra";
 
-"CONTENTS"              = "Contents";
-"EMPTY_TOC"             = "This book does not contain a table of contents";
-"BOOKMARK"              = "Bookmark";
-"BOOKMARKS"             = "Bookmarks";
-"EMPTY_NOTES"           = "No bookmarks and notes";
+"CONTENTS"              = "Tartalom";
+"EMPTY_TOC"             = "Ez a könyv nem tartalmaz tartalomjegyzéket";
+"BOOKMARK"              = "Könyvjelző";
+"BOOKMARKS"             = "Könyvjelzők";
+"EMPTY_NOTES"           = "Nincsenek könyvjelzők és jegyzetek";
 
-"LOADING_STATUS"        = "Loading..";
-"LAYOUTING_STATUS"      = "Layout..";
+"LOADING_STATUS"        = "Betöltés...";
+"LAYOUTING_STATUS"      = "Kivitel...";
 
-"EXTRAS"                = "Extras";
-"THUMBNAILS"            = "Thumbnails";
-"AUTOSCROLL"            = "Auto scroll";
-"DEFINE"                = "Define";
-"RAPID_READ"            = "Speed Reading";
-"GOTO_PAGE"             = "Go to page";
-"GOTO_MENU"             = "Go to..";
-"PAGE_NO"               = "Page number";
-"HORIZ_SCROLL_LOCK"     = "Horiz. scroll";
+"EXTRAS"                = "Extrák";
+"THUMBNAILS"            = "Parancsikonok";
+"AUTOSCROLL"            = "Automatikus görgetés";
+"DEFINE"                = "Definíció";
+"RAPID_READ"            = "Gyorsolvasás";
+"GOTO_PAGE"             = "Ugrás erre az oldalra:";
+"GOTO_MENU"             = "Ugrás ide...";
+"PAGE_NO"               = "Oldalszám";
+"HORIZ_SCROLL_LOCK"     = "Vízszintes görgetés";
 
-"RESET_BOOK_CURSOR_TITLE" = "The read position";
-"RESET_BOOK_CURSOR_MESSAGE" = "It seems what the read position in this book was recently changed on the another your device. Would you like to go to the read position obtained from iCloud?";
+"RESET_BOOK_CURSOR_TITLE" = "Itt tartok";
+"RESET_BOOK_CURSOR_MESSAGE" = "Úgy tűnik, hogy egy másik készülékén megváltoztatta, hol tart ebben a könyvben. Szeretne az iCloud-ból beszerzett helyre ugrani?";
 
-"NEXT_PAGE"             = "Next page";
-"PREV_PAGE"             = "Previous page";
+"NEXT_PAGE"             = "Következő oldal";
+"PREV_PAGE"             = "Előző oldal";
 
 
 /* BOOKREADER SEARCH PARAMS */
